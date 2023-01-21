@@ -1,7 +1,7 @@
 # Declare variables to store patient information
-patient_name =Input( "Patient name" )
-patient_age = Input ("patient age")
-patient_status = Input ("Patient status")
+patient_name =input( "Patient name" )
+patient_age = input ("patient age")
+patient_status = input ("Patient status")
 
 # Print patient check-in information
 print("Patient Name: ", patient_name)
