@@ -1,5 +1,5 @@
 # Declare variables to store patient information
-patient_name = "John Smith"
+input =patient_name = "John Smith"
 patient_age = 20
 patient_status = "new"
 
