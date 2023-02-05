@@ -19,3 +19,4 @@ while guess != number:
     elif guess < number:
         print("Too low.")
 print("Well guessed!")
+
