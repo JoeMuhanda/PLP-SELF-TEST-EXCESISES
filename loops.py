@@ -21,15 +21,3 @@ while guess != number:
 print("Well guessed!")
 
 
-I 
-DONT KNOW
-
-I WISH
- ABOVE IS
-TO BE
-DELETED
-DELETE
-DONT
-REPLACE
-WITH
- I KNOW
