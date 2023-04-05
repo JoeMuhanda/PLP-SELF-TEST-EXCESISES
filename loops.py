@@ -23,3 +23,5 @@ print("Well guessed!")
 
 I 
 DONT KNOW
+
+I WISH
