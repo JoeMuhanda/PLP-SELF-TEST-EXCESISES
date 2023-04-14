@@ -10,3 +10,5 @@ print("Patient Age: ", patient_age
 print("Patient Status: ", patient_status)
 
    
+a
+      d
